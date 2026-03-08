@@ -1,11 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Blake Taylor
+# Blake Taylor
 
-### Math × Statistics × CS @ UBC · Graduating May 2026
+### Mathematics x CS x Statistics @ UBC · Graduating May 2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blaketayl02)
 
 </div>
