@@ -16,7 +16,7 @@
 - 🎓 **B.Sc. Mathematics** (Focus of Statistics & CS) @ **The University of British Columbia (UBC)**
 - 💼 Previously **Data Analyst** @ UBC Faculty of Medicine EdTech
 - 🤖 Research interests: **Diffusion Models**, **Multi-Agent Systems**, **ML/AI** applied to real-world data
-- 🪙 10+ years in **crypto & blockchain** — GPU/ASIC mining rig builder since day one
+- 🥯 10+ years in **crypto & blockchain** — GPU/ASIC mining rig builder since day one
 - 🔍 Actively seeking **full-time roles** in Data Analytics, ML/AI, or Software Engineering (2026)
 
 ---
@@ -73,6 +73,7 @@
 | 🚗 **Diffusion Trajectory Model** | DDPM-based multi-agent driving trajectory generation on Waymo Open Motion Dataset | Python, PyTorch |
 | 📊 **AI Grading System** | Automated grading pipeline with OpenAI APIs for medical education feedback | Python, OpenAI API |
 | 🔥 **Wildfire Dashboard** | Interactive Canadian wildfire pattern analysis (1950–2023) | Altair, Pandas |
+| 👁️ **Facial Recognition System** | Live face detection, tracking & recognition app with Instagram scraping pipeline and Google Cloud Storage for dataset management | Python, GCS |
 ---
 
 <div align="center">
