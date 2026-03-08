@@ -75,13 +75,6 @@
 | 🔥 **Wildfire Dashboard** | Interactive Canadian wildfire pattern analysis (1950–2023) | Altair, Pandas |
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Blake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blaketayl02&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blaketayl02&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
