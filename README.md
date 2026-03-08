@@ -4,7 +4,7 @@
 
 ### Mathematics x CS x Statistics @ UBC · Graduating May 2026
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/blaketayl)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blaketayl02)
 
 </div>
@@ -75,14 +75,10 @@
 | 🔥 **Wildfire Dashboard** | Interactive Canadian wildfire pattern analysis (1950–2023) | Altair, Pandas |
 ---
 
-</div>
-
----
-
 <div align="center">
 
-*"Understand the logic, not just the implementation."*
+*"Understand the why not just the how."*
 
-📫 **Open to opportunities** — feel free to reach out!
+📫 **Open to opportunities** — blaketayl02@gmail.com
 
 </div>
