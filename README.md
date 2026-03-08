@@ -13,8 +13,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **B.Sc. Mathematics** (Statistics & CS) @ **The University of British Columbia (UBC)**
-- 💼 Previously **Data Analyst** @ UBC Faculty of Medicine EdTech — built AI-powered grading systems, Python dashboards & MCP servers
+- 🎓 **B.Sc. Mathematics** (Focus of Statistics & CS) @ **The University of British Columbia (UBC)**
+- 💼 Previously **Data Analyst** @ UBC Faculty of Medicine EdTech
 - 🤖 Research interests: **Diffusion Models**, **Multi-Agent Systems**, **ML/AI** applied to real-world data
 - 🪙 10+ years in **crypto & blockchain** — GPU/ASIC mining rig builder since day one
 - 🔍 Actively seeking **full-time roles** in Data Analytics, ML/AI, or Software Engineering (2026)
@@ -35,7 +35,6 @@
 - 🎮 Game Development with **Unreal Engine 5** (Blueprints)
 - 🍜 Built **Chop** — a social food app (React Native + Appwrite) with IG-style feed, maps & restaurant badges
 - ⛏️ Crypto mining, blockchain infrastructure & DeFi
-- 🎙️ ASMR & content creation automation
 
 ---
 
