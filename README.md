@@ -33,7 +33,7 @@
 ## 🔥 Personal Passions
 
 - 🎮 Game Development with **Unreal Engine 5** (Blueprints)
-- 🍜 Built **Chop** — a social food app (React Native + Appwrite) with IG-style feed, maps & restaurant badges
+- 🍜 Built **Chop**, a social food app (React Native + Appwrite) with IG-style feed, maps & restaurant badges
 - ⛏️ Crypto mining, blockchain infrastructure & DeFi
 
 ---
@@ -69,12 +69,10 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🍜 **Chop** | Social media food app — IG-style feed, map integration, restaurant badge system | React Native, Appwrite |
+| 🍜 **Chop** | Social media food app with IG-style feed, map integration, restaurant badge system | React Native, Appwrite |
 | 🚗 **Diffusion Trajectory Model** | DDPM-based multi-agent driving trajectory generation on Waymo Open Motion Dataset | Python, PyTorch |
 | 📊 **AI Grading System** | Automated grading pipeline with OpenAI APIs for medical education feedback | Python, OpenAI API |
 | 🔥 **Wildfire Dashboard** | Interactive Canadian wildfire pattern analysis (1950–2023) | Altair, Pandas |
-| 🤖 **Mr. Kato Chatbot** | AI clinical training chatbot with MCP server retrieval | Python, LLMs, MCP |
-
 ---
 
 ## 📊 GitHub Stats
