@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👩🏻‍💻 About Me
 
 - 🎓 **B.Sc. Mathematics** (Focus of Statistics & CS) @ **The University of British Columbia (UBC)**
 - 💼 Previously **Data Analyst** @ UBC Faculty of Medicine EdTech
