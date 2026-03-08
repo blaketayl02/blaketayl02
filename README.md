@@ -1,6 +1,6 @@
 <div align="center">
 
-# Blake Taylor
+# Blake Taylor 𝞹 💻 📊
 
 ### Mathematics x CS x Statistics @ UBC · Graduating May 2026
 
