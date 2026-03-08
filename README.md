@@ -78,7 +78,7 @@
 
 <div align="center">
 
-*"Understand the why not just the how."*
+*"Understand the why, not just the how."*
 
 📫 **Open to opportunities** — blaketayl02@gmail.com
 
