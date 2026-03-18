@@ -2,7 +2,8 @@
 
 # 💻 Blake Taylor 📊
 
-### Mathematics x CS x Statistics @ UBC · Graduating May 2026
+### Mathematics with a focus in CS & Statistics @ UBC · Graduating May 2026
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/blaketayl)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blaketayl02)
