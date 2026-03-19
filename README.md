@@ -5,6 +5,7 @@
 ### Mathematics with a focus in CS & Statistics @ UBC · Graduating May 2026
 
 
+[![Portfolio](https://img.shields.io/badge/>__%20Portfolio-FFFFFF?style=for-the-badge&logo=gnu-bash&logoColor=black)](https://databyblake.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/blaketayl)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blaketayl02)
 
